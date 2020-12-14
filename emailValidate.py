@@ -1,5 +1,5 @@
 from validate_email import validate_email
-is_valid = validate_email(email_address='metin.koten@mysoft.com.tr',
+is_valid = validate_email(email_address='selami.gulerr@gmail.com',
                           check_regex=True,
                           check_mx=True,
                           smtp_timeout=10,
